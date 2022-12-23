@@ -43,7 +43,7 @@
 {"country":"Ghana","city":"Accra","tld":"gh","iso3":"GHA","iso2":"GH","location":{"coordinates":[-0.13,5.33],"type":"Point"},"@timestamp":"2022-12-25T04:20Z"}
 {"country":"Oman","city":"Muscat","tld":"om","iso3":"OMN","iso2":"OM","location":{"coordinates":[58.35,23.37],"type":"Point"},"@timestamp":"2022-12-24T19:00Z"}
 {"country":"Tunisia","city":"Tunis","tld":"tn","iso3":"TUN","iso2":"TN","location":{"coordinates":[10.11,36.48],"type":"Point"},"@timestamp":"2022-12-25T02:40Z"}
-{"country":"Jordan","city":"Amman","tld":"jo","iso3":"JOR","iso2":"JO","location":{"coordinates":[35.56,31.57],"type":"Point"},"@timestamp":"JO"}
+{"country":"Jordan","city":"Amman","tld":"jo","iso3":"JOR","iso2":"JO","location":{"coordinates":[35.56,31.57],"type":"Point"},"@timestamp":"2022-12-25T02:50Z"}
 {"country":"Croatia","city":"Zagreb","tld":"hr","iso3":"HRV","iso2":"HR","location":{"coordinates":[16,45.48],"type":"Point"},"@timestamp":"2022-12-25T02:20Z"}
 {"country":"Haiti","city":"Port-au-Prince","tld":"ht","iso3":"HTI","iso2":"HT","location":{"coordinates":[-72.2,18.32],"type":"Point"},"@timestamp":"2022-12-25T10:30Z"}
 {"country":"Hungary","city":"Budapest","tld":"hu","iso3":"HUN","iso2":"HU","location":{"coordinates":[19.05,47.3],"type":"Point"},"@timestamp":"2022-12-24T22:20Z"}
