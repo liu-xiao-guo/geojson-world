@@ -1,0 +1,113 @@
+{"country":"Bangladesh","city":"Dhaka","tld":"bd","iso3":"BGD","iso2":"BD","location":{"coordinates":[90.24,23.43],"type":"Point"},"@timestamp":"2022-12-24T16:15Z"}
+{"country":"Belgium","city":"Brussels","tld":"be","iso3":"BEL","iso2":"BE","location":{"coordinates":[4.2,50.5],"type":"Point"},"@timestamp":"2022-12-25T00:45Z"}
+{"country":"Burkina Faso","city":"Ouagadougou","tld":"bf","iso3":"BFA","iso2":"BF","location":{"coordinates":[-1.31,12.22],"type":"Point"},"@timestamp":"2022-12-25T04:00Z"}
+{"country":"Bulgaria","city":"Sofia","tld":"bg","iso3":"BGR","iso2":"BG","location":{"coordinates":[23.19,42.41],"type":"Point"},"@timestamp":"2022-12-24T21:40Z"}
+{"country":"Bosnia and Herzegovina","city":"Sarajevo","tld":"ba","iso3":"BIH","iso2":"BA","location":{"coordinates":[18.25,43.52],"type":"Point"},"@timestamp":"2022-12-24T22:10Z"}
+{"country":"Barbados","city":"Bridgetown","tld":"bb","iso3":"BRB","iso2":"BB","location":{"coordinates":[-59.37,13.06],"type":"Point"},"@timestamp":"2022-12-25T10:10Z"}
+{"country":"Bermuda","city":"Hamilton","tld":"bm","iso3":"BMU","iso2":"BM","location":{"coordinates":[-64.47,32.17],"type":"Point"},"@timestamp":"2022-12-25T12:40Z"}
+{"country":"Brunei","city":"Bandar Seri Begawan","tld":"bn","iso3":"BRN","iso2":"BN","location":{"coordinates":[114.56,4.53],"type":"Point"},"@timestamp":"2022-12-24T14:50Z"}
+{"country":"Bolivia","city":"La Paz","tld":"bo","iso3":"BOL","iso2":"BO","location":{"coordinates":[-68.09,-16.3],"type":"Point"},"@timestamp":"2022-12-25T08:50Z"}
+{"country":"Bahrain","city":"Manama","tld":"bh","iso3":"BHR","iso2":"BH","location":{"coordinates":[50.34,26.14],"type":"Point"},"@timestamp":"2022-12-24T19:20Z"}
+{"country":"Burundi","city":"Bujumbura","tld":"bi","iso3":"BDI","iso2":"BI","location":{"coordinates":[29.21,-3.22],"type":"Point"},"@timestamp":"2022-12-24T17:50Z"}
+{"country":"Benin","city":"Porto-Novo","tld":"bj","iso3":"BEN","iso2":"BJ","location":{"coordinates":[2.37,6.29],"type":"Point"},"@timestamp":"2022-12-25T04:30Z"}
+{"country":"Bhutan","city":"Thimphu","tld":"bt","iso3":"BTN","iso2":"BT","location":{"coordinates":[89.36,27.29],"type":"Point"},"@timestamp":"2022-12-24T16:15Z"}
+{"country":"Jamaica","city":"Kingston","tld":"jm","iso3":"JAM","iso2":"JM","location":{"coordinates":[-76.48,18],"type":"Point"},"@timestamp":"2022-12-25T10:50Z"}
+{"country":"Botswana","city":"Gaborone","tld":"bw","iso3":"BWA","iso2":"BW","location":{"coordinates":[25.55,-24.45],"type":"Point"},"@timestamp":"2022-12-25T07:20Z"}
+{"country":"Samoa","city":"Apia","tld":"ws","iso3":"WSM","iso2":"WS","location":{"coordinates":[-171.44,-13.5],"type":"Point"},"@timestamp":"2022-12-24T12:20Z"}
+{"country":"Brazil","city":"Brasilia","tld":"br","iso3":"BRA","iso2":"BR","location":{"coordinates":[-47.55,-15.47],"type":"Point"},"@timestamp":"2022-12-25T08:40Z"}
+{"country":"Bahamas","city":"Nassau","tld":"bs","iso3":"BHS","iso2":"BS","location":{"coordinates":[-77.21,25.05],"type":"Point"},"@timestamp":"2022-12-25T12:30Z"}
+{"country":"Jersey","city":"Saint Helier","tld":"je","iso3":"JEY","iso2":"JE","location":{"coordinates":[-2.06,49.11],"type":"Point"},"@timestamp":"2022-12-25T00:15Z"}
+{"country":"Belarus","city":"Minsk","tld":"by","iso3":"BLR","iso2":"BY","location":{"coordinates":[27.34,53.54],"type":"Point"},"@timestamp":"2022-12-24T22:40Z"}
+{"country":"Belize","city":"Belmopan","tld":"bz","iso3":"BLZ","iso2":"BZ","location":{"coordinates":[-88.46,17.15],"type":"Point"},"@timestamp":"2022-12-25T12:10Z"}
+{"country":"Russia","city":"Moscow","tld":"ru","iso3":"RUS","iso2":"RU","location":{"coordinates":[37.35,55.45],"type":"Point"},"@timestamp":"2022-12-24T22:50Z"}
+{"country":"Rwanda","city":"Kigali","tld":"rw","iso3":"RWA","iso2":"RW","location":{"coordinates":[30.04,-1.57],"type":"Point"},"@timestamp":"2022-12-25T06:00Z"}
+{"country":"Serbia","city":"Belgrade","tld":"rs","iso3":"SRB","iso2":"RS","location":{"coordinates":[20.3,44.5],"type":"Point"},"@timestamp":"2022-12-24T22:05Z"}
+{"country":"Timor-Leste","city":"Dili","tld":"tl","iso3":"TLS","iso2":"TL","location":{"coordinates":[125.36,-8.35],"type":"Point"},"@timestamp":"2022-12-24T14:20Z"}
+{"country":"Romania","city":"Bucharest","tld":"ro","iso3":"ROU","iso2":"RO","location":{"coordinates":[26.06,44.26],"type":"Point"},"@timestamp":"2022-12-24T21:10Z"}
+{"country":"Tokelau","tld":"tk","iso3":"TKL","iso2":"TK","location":{"coordinates":[-172,-9],"type":"Point"},"@timestamp":"2022-12-24T12:10Z"}
+{"country":"Guinea-Bissau","city":"Bissau","tld":"gw","iso3":"GNB","iso2":"GW","location":{"coordinates":[-15.35,11.51],"type":"Point"},"@timestamp":"2022-12-25T03:10Z"}
+{"country":"Guam","city":"Hagatna","tld":"gu","iso3":"GUM","iso2":"GU","location":{"coordinates":[144.44,13.28],"type":"Point"},"@timestamp":"2022-12-24T14:00Z"}
+{"country":"Guatemala","city":"Guatemala City","tld":"gt","iso3":"GTM","iso2":"GT","location":{"coordinates":[-90.31,14.37],"type":"Point"},"@timestamp":"2022-12-25T12:00Z"}
+{"country":"Greece","city":"Athens","tld":"gr","iso3":"GRC","iso2":"GR","location":{"coordinates":[23.44,37.59],"type":"Point"},"@timestamp":"2022-12-24T20:50Z"}
+{"country":"Equatorial Guinea","city":"Malabo","tld":"gq","iso3":"GNQ","iso2":"GQ","location":{"coordinates":[8.47,3.45],"type":"Point"},"@timestamp":"2022-12-25T05:00Z"}
+{"country":"Japan","city":"Tokyo","tld":"jp","iso3":"JPN","iso2":"JP","location":{"coordinates":[139.45,35.41],"type":"Point"},"@timestamp":"2022-12-24T15:20Z"}
+{"country":"Guyana","city":"Georgetown","tld":"gy","iso3":"GUY","iso2":"GY","location":{"coordinates":[-58.1,6.48],"type":"Point"},"@timestamp":"2022-12-25T09:50Z"}
+{"country":"Georgia","city":"T'bilisi","tld":"ge","iso3":"GEO","iso2":"GE","location":{"coordinates":[44.47,41.43],"type":"Point"},"@timestamp":"2022-12-24T20:05Z"}
+{"country":"Grenada","city":"Saint George's","tld":"gd","iso3":"GRD","iso2":"GD","location":{"coordinates":[-61.45,12.03],"type":"Point"},"@timestamp":"2022-12-25T09:30Z"}
+{"country":"United Kingdom","city":"London","tld":"uk","iso3":"GBR","iso2":"GB","location":{"coordinates":[-0.1,51.3],"type":"Point"},"@timestamp":"2022-12-25T00:10Z"}
+{"country":"Gabon","city":"Libreville","tld":"ga","iso3":"GAB","iso2":"GA","location":{"coordinates":[9.27,0.23],"type":"Point"},"@timestamp":"2022-12-25T05:20Z"}
+{"country":"El Salvador","city":"San Salvador","tld":"sv","iso3":"SLV","iso2":"SV","location":{"coordinates":[-89.12,13.42],"type":"Point"},"@timestamp":"2022-12-25T11:50Z"}
+{"country":"Guinea","city":"Conakry","tld":"gn","iso3":"GIN","iso2":"GN","location":{"coordinates":[-13.42,9.33],"type":"Point"},"@timestamp":"2022-12-25T03:40Z"}
+{"country":"Gambia","city":"Banjul","tld":"gm","iso3":"GMB","iso2":"GM","location":{"coordinates":[-16.34,13.27],"type":"Point"},"@timestamp":"2022-12-25T03:30Z"}
+{"country":"Greenland","city":"Nuuk","tld":"gl","iso3":"GRL","iso2":"GL","location":{"coordinates":[-51.45,64.11],"type":"Point"},"@timestamp":"2022-12-25T12:50Z"}
+{"country":"Ghana","city":"Accra","tld":"gh","iso3":"GHA","iso2":"GH","location":{"coordinates":[-0.13,5.33],"type":"Point"},"@timestamp":"2022-12-25T04:20Z"}
+{"country":"Oman","city":"Muscat","tld":"om","iso3":"OMN","iso2":"OM","location":{"coordinates":[58.35,23.37],"type":"Point"},"@timestamp":"2022-12-24T19:00Z"}
+{"country":"Tunisia","city":"Tunis","tld":"tn","iso3":"TUN","iso2":"TN","location":{"coordinates":[10.11,36.48],"type":"Point"},"@timestamp":"2022-12-25T02:40Z"}
+{"country":"Jordan","city":"Amman","tld":"jo","iso3":"JOR","iso2":"JO","location":{"coordinates":[35.56,31.57],"type":"Point"},"@timestamp":"JO"}
+{"country":"Croatia","city":"Zagreb","tld":"hr","iso3":"HRV","iso2":"HR","location":{"coordinates":[16,45.48],"type":"Point"},"@timestamp":"2022-12-25T02:20Z"}
+{"country":"Haiti","city":"Port-au-Prince","tld":"ht","iso3":"HTI","iso2":"HT","location":{"coordinates":[-72.2,18.32],"type":"Point"},"@timestamp":"2022-12-25T10:30Z"}
+{"country":"Hungary","city":"Budapest","tld":"hu","iso3":"HUN","iso2":"HU","location":{"coordinates":[19.05,47.3],"type":"Point"},"@timestamp":"2022-12-24T22:20Z"}
+{"country":"Hong Kong","city":"Hong Kong","tld":"hk","iso3":"HKG","iso2":"HK","location":{"coordinates":[114.1,22.15],"type":"Point"},"@timestamp":"2022-12-24T15:15Z"}
+{"country":"Honduras","city":"Tegucigalpa","tld":"hn","iso3":"HND","iso2":"HN","location":{"coordinates":[-87.13,14.06],"type":"Point"},"@timestamp":"2022-12-25T11:40Z"}
+{"country":"Venezuela","city":"Caracas","tld":"ve","iso3":"VEN","iso2":"VE","location":{"coordinates":[-66.56,10.3],"type":"Point"},"@timestamp":"2022-12-25T09:30Z"}
+{"country":"Puerto Rico","city":"San Juan","tld":"pr","iso3":"PRI","iso2":"PR","location":{"coordinates":[-66.07,18.28],"type":"Point"},"@timestamp":"2022-12-25T10:40Z"}
+{"country":"Palau","city":"Melekeok","tld":"pw","iso3":"PLW","iso2":"PW","location":{"coordinates":[134.38,7.29],"type":"Point"},"@timestamp":"2022-12-24T14:10Z"}
+{"country":"Portugal","city":"Lisbon","tld":"pt","iso3":"PRT","iso2":"PT","location":{"coordinates":[-9.08,38.43],"type":"Point"},"@timestamp":"2022-12-25T01:10Z"}
+{"country":"Paraguay","city":"Asuncion","tld":"py","iso3":"PRY","iso2":"PY","location":{"coordinates":[-57.4,-25.16],"type":"Point"},"@timestamp":"2022-12-25T08:30Z"}
+{"country":"Iraq","city":"Baghdad","tld":"iq","iso3":"IRQ","iso2":"IQ","location":{"coordinates":[44.23,33.2],"type":"Point"},"@timestamp":"2022-12-24T19:40Z"}
+{"country":"Panama","city":"Panama City","tld":"pa","iso3":"PAN","iso2":"PA","location":{"coordinates":[-79.32,8.58],"type":"Point"},"@timestamp":"2022-12-25T11:20Z"}
+{"country":"French Polynesia","city":"Papeete","tld":"pf","iso3":"PYF","iso2":"PF","location":{"coordinates":[-149.34,-17.32],"type":"Point"},"@timestamp":"2022-12-25T13:30Z"}
+{"country":"Papua New Guinea","city":"Port Moresby","tld":"pg","iso3":"PNG","iso2":"PG","location":{"coordinates":[147.1,-9.3],"type":"Point"},"@timestamp":"2022-12-24T13:50Z"}
+{"country":"Peru","city":"Lima","tld":"pe","iso3":"PER","iso2":"PE","location":{"coordinates":[-77.03,-12.03],"type":"Point"},"@timestamp":"2022-12-25T09:00Z"}
+{"country":"Pakistan","city":"Islamabad","tld":"pk","iso3":"PAK","iso2":"PK","location":{"coordinates":[73.1,33.42],"type":"Point"},"@timestamp":"2022-12-24T16:30Z"}
+{"country":"Philippines","city":"Manila","tld":"ph","iso3":"PHL","iso2":"PH","location":{"coordinates":[121,14.35],"type":"Point"},"@timestamp":"2022-12-24T15:00Z"}
+{"country":"Pitcairn","city":"Adamstown","tld":"pn","iso3":"PCN","iso2":"PN","location":{"coordinates":[-130.05,-25.04],"type":"Point"},"@timestamp":"2022-12-25T13:20Z"}
+{"country":"Poland","city":"Warsaw","tld":"pl","iso3":"POL","iso2":"PL","location":{"coordinates":[21,52.15],"type":"Point"},"@timestamp":"2022-12-24T22:30Z"}
+{"country":"Zambia","city":"Lusaka","tld":"zm","iso3":"ZMB","iso2":"ZM","location":{"coordinates":[28.17,-15.25],"type":"Point"},"@timestamp":"Z2022-12-25T06:20Z"}
+{"country":"Western Sahara","tld":"eh","iso3":"ESH","iso2":"EH","location":{"coordinates":[-13,24.3],"type":"Point"},"@timestamp":"2022-12-25T03:00Z"}
+{"country":"Estonia","city":"Tallinn","tld":"ee","iso3":"EST","iso2":"EE","location":{"coordinates":[24.43,59.26],"type":"Point"},"@timestamp":"2022-12-24T23:05Z"}
+{"country":"Egypt","city":"Cairo","tld":"eg","iso3":"EGY","iso2":"EG","location":{"coordinates":[31.15,30.03],"type":"Point"},"@timestamp":"2022-12-24T20:30Z"}
+{"country":"South Africa","city":"Pretoria","tld":"za","iso3":"ZAF","iso2":"ZA","location":{"coordinates":[28.13,-25.42],"type":"Point"},"@timestamp":"2022-12-25T07:10Z"}
+{"country":"Ecuador","city":"Quito","tld":"ec","iso3":"ECU","iso2":"EC","location":{"coordinates":[-78.3,-0.13],"type":"Point"},"@timestamp":"2022-12-25T09:10Z"}
+{"country":"Italy","city":"Rome","tld":"it","iso3":"ITA","iso2":"IT","location":{"coordinates":[12.29,41.54],"type":"Point"},"@timestamp":"2022-12-25T01:50Z"}
+{"country":"Vietnam","city":"Hanoi","tld":"vn","iso3":"VNM","iso2":"VN","location":{"coordinates":[105.51,21.02],"type":"Point"},"@timestamp":"2022-12-24T16:05Z"}
+{"country":"Solomon Islands","city":"Honiara","tld":"sb","iso3":"SLB","iso2":"SB","location":{"coordinates":[159.57,-9.26],"type":"Point"},"@timestamp":"2022-12-24T13:10Z"}
+{"country":"Ethiopia","city":"Addis Ababa","tld":"et","iso3":"ETH","iso2":"ET","location":{"coordinates":[38.42,9.02],"type":"Point"},"@timestamp":"2022-12-24T18:20Z"}
+{"country":"Somalia","city":"Mogadishu","tld":"so","iso3":"SOM","iso2":"SO","location":{"coordinates":[45.22,2.04],"type":"Point"},"@timestamp":"2022-12-24T17:30Z"}
+{"country":"Zimbabwe","city":"Harare","tld":"zw","iso3":"ZWE","iso2":"ZW","location":{"coordinates":[31.03,-17.5],"type":"Point"},"@timestamp":"2022-12-25T06:30Z"}
+{"country":"Saudi Arabia","city":"Riyadh","tld":"sa","iso3":"SAU","iso2":"SA","location":{"coordinates":[46.43,24.38],"type":"Point"},"@timestamp":"2022-12-24T19:30Z"}
+{"country":"Spain","city":"Madrid","tld":"es","iso3":"ESP","iso2":"ES","location":{"coordinates":[-3.41,40.24],"type":"Point"},"@timestamp":"2022-12-25T01:20Z"}
+{"country":"Eritrea","city":"Asmara","tld":"er","iso3":"ERI","iso2":"ER","location":{"coordinates":[38.56,15.2],"type":"Point"},"@timestamp":"2022-12-24T18:40Z"}
+{"country":"Montenegro","city":"Podgorica","tld":"me","iso3":"MNE","iso2":"ME","location":{"coordinates":[19.16,42.26],"type":"Point"},"@timestamp":"2022-12-24T22:00Z"}
+{"country":"Moldova","city":"Chisinau","tld":"md","iso3":"MDA","iso2":"MD","location":{"coordinates":[28.51,47],"type":"Point"},"@timestamp":"2022-12-24T21:20Z"}
+{"country":"Morocco","city":"Rabat","tld":"ma","iso3":"MAR","iso2":"MA","location":{"coordinates":[-6.49,34.01],"type":"Point"},"@timestamp":"2022-12-25T02:50Z"}
+{"country":"Monaco","city":"Monaco","tld":"mc","iso3":"MCO","iso2":"MC","location":{"coordinates":[7.25,43.44],"type":"Point"},"@timestamp":"2022-12-25T01:30Z"}
+{"country":"Myanmar","city":"Rangoon","tld":"mm","iso3":"MMR","iso2":"MM","location":{"coordinates":[96.09,16.48],"type":"Point"},"@timestamp":"2022-12-24T16:10Z"}
+{"country":"Mali","city":"Bamako","tld":"ml","iso3":"MLI","iso2":"ML","location":{"coordinates":[-8,12.39],"type":"Point"},"@timestamp":"2022-12-25T03:50Z"}
+{"country":"Marshall Islands","city":"Majuro","tld":"mh","iso3":"MHL","iso2":"MH","location":{"coordinates":[171.23,7.06],"type":"Point"},"@timestamp":"2022-12-24T13:00Z"}
+{"country":"Macedonia","city":"Skopje","tld":"mk","iso3":"MKD","iso2":"MK","location":{"coordinates":[21.26,42],"type":"Point"},"@timestamp":"2022-12-24T21:50Z"}
+{"country":"Mauritius","city":"Port Louis","tld":"mu","iso3":"MUS","iso2":"MU","location":{"coordinates":[57.29,-20.09],"type":"Point"},"@timestamp":"2022-12-24T17:10Z"}
+{"country":"Malta","city":"Valletta","tld":"mt","iso3":"MLT","iso2":"MT","location":{"coordinates":[14.3,35.53],"type":"Point"},"@timestamp":"2022-12-25T02:30Z"}
+{"country":"Malawi","city":"Lilongwe","tld":"mw","iso3":"MWI","iso2":"MW","location":{"coordinates":[33.47,-13.59],"type":"Point"},"@timestamp":"2022-12-25T06:40Z"}
+{"country":"Maldives","city":"Male","tld":"mv","iso3":"MDV","iso2":"MV","location":{"coordinates":[73.3,4.1],"type":"Point"},"@timestamp":"2022-12-24T16:40Z"}
+{"country":"Uganda","city":"Kampala","tld":"ug","iso3":"UGA","iso2":"UG","location":{"coordinates":[32.25,0.19],"type":"Point"},"@timestamp":"2022-12-24T18:00Z"}
+{"country":"Malaysia","city":"Kuala Lumpur","tld":"my","iso3":"MYS","iso2":"MY","location":{"coordinates":[101.42,3.1],"type":"Point"},"@timestamp":"2022-12-24T16:00Z"}
+{"country":"Mexico","city":"Mexico City","tld":"mx","iso3":"MEX","iso2":"MX","location":{"coordinates":[-99.08,19.26],"type":"Point"},"@timestamp":"2022-12-25T12:20Z"}
+{"country":"France","city":"Paris","tld":"fr","iso3":"FRA","iso2":"FR","location":{"coordinates":[2.2,48.52],"type":"Point"},"@timestamp":"2022-12-25T01:00Z"}
+{"country":"British Indian Ocean Territory","tld":"io","iso3":"IOT","iso2":"IO","location":{"coordinates":[71.3,-6],"type":"Point"},"@timestamp":"2022-12-24T16:50Z"}
+{"country":"Saint Helena Ascension and Tristan da Cunha","city":"Jamestown","tld":"sh","iso3":"SHN","iso2":"SH","location":{"coordinates":[-5.44,-15.56],"type":"Point"},"@timestamp":"2022-12-25T07:50Z"}
+{"country":"Finland","city":"Helsinki","tld":"fi","iso3":"FIN","iso2":"FI","location":{"coordinates":[24.56,60.1],"type":"Point"},"@timestamp":"2022-12-24T23:20Z"}
+{"country":"Fiji","city":"Suva","tld":"fj","iso3":"FJI","iso2":"FJ","location":{"coordinates":[178.25,-18.08],"type":"Point"},"@timestamp":"2022-12-24T12:50Z"}
+{"country":"Falkland Islands","city":"Stanley","tld":"fk","iso3":"FLK","iso2":"FK","location":{"coordinates":[-57.51,-51.42],"type":"Point"},"@timestamp":"2022-12-25T08:00Z"}
+{"country":"Micronesia","city":"Palikir","tld":"fm","iso3":"FSM","iso2":"FM","location":{"coordinates":[158.09,6.55],"type":"Point"},"@timestamp":"2022-12-24T13:40Z"}
+{"country":"Nicaragua","city":"Managua","tld":"ni","iso3":"NIC","iso2":"NI","location":{"coordinates":[-86.17,12.09],"type":"Point"},"@timestamp":"2022-12-25T11:30Z"}
+{"country":"Netherlands","city":"Amsterdam","tld":"nl","iso3":"NLD","iso2":"NL","location":{"coordinates":[4.54,52.23],"type":"Point"},"@timestamp":"2022-12-25T00:40Z"}
+{"country":"Norway","city":"Oslo","tld":"no","iso3":"NOR","iso2":"NO","location":{"coordinates":[10.45,59.55],"type":"Point"},"@timestamp":"2022-12-24T23:40Z"}
+{"country":"Namibia","city":"Windhoek","tld":"na","iso3":"NAM","iso2":"NA","location":{"coordinates":[17.05,-22.34],"type":"Point"},"@timestamp":"2022-12-25T07:30Z"}
+{"country":"Vanuatu","city":"Port-Vila","tld":"vu","iso3":"VUT","iso2":"VU","location":{"coordinates":[168.19,-17.44],"type":"Point"},"@timestamp":"2022-12-24T13:10Z"}
+{"country":"Niger","city":"Niamey","tld":"ne","iso3":"NER","iso2":"NE","location":{"coordinates":[2.07,13.31],"type":"Point"},"@timestamp":"2022-12-25T04:50Z"}
+{"country":"Nigeria","city":"Abuja","tld":"ng","iso3":"NGA","iso2":"NG","location":{"coordinates":[7.32,9.05],"type":"Point"},"@timestamp":"2022-12-25T04:40Z"}
+{"country":"New Zealand","city":"Wellington","tld":"nz","iso3":"NZL","iso2":"NZ","location":{"coordinates":[174.51,-41.28],"type":"Point"},"@timestamp":"2022-12-24T13:20Z"}
+{"country":"Nauru","tld":"nr","iso3":"NRU","iso2":"NR","location":{"coordinates":[166.55,-0.32],"type":"Point"},"@timestamp":"2022-12-24T13:00Z"}
+{"country":"Niue","city":"Alofi","tld":"nu","iso3":"NIU","iso2":"NU","location":{"coordinates":[-169.55,-19.01],"type":"Point"},"@timestamp":"2022-12-25T13:50Z"}
+{"country":"Cook Islands","city":"Avarua","tld":"ck","iso3":"COK","iso2":"CK","location":{"coordinates":[-159.46,-21.12],"type":"Point"},"@timestamp":"2022-12-25T13:40Z"}
