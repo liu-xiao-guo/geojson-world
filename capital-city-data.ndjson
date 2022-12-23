@@ -63,7 +63,7 @@
 {"country":"Philippines","city":"Manila","tld":"ph","iso3":"PHL","iso2":"PH","location":{"coordinates":[121,14.35],"type":"Point"},"@timestamp":"2022-12-24T15:00Z"}
 {"country":"Pitcairn","city":"Adamstown","tld":"pn","iso3":"PCN","iso2":"PN","location":{"coordinates":[-130.05,-25.04],"type":"Point"},"@timestamp":"2022-12-25T13:20Z"}
 {"country":"Poland","city":"Warsaw","tld":"pl","iso3":"POL","iso2":"PL","location":{"coordinates":[21,52.15],"type":"Point"},"@timestamp":"2022-12-24T22:30Z"}
-{"country":"Zambia","city":"Lusaka","tld":"zm","iso3":"ZMB","iso2":"ZM","location":{"coordinates":[28.17,-15.25],"type":"Point"},"@timestamp":"Z2022-12-25T06:20Z"}
+{"country":"Zambia","city":"Lusaka","tld":"zm","iso3":"ZMB","iso2":"ZM","location":{"coordinates":[28.17,-15.25],"type":"Point"},"@timestamp":"2022-12-25T06:20Z"}
 {"country":"Western Sahara","tld":"eh","iso3":"ESH","iso2":"EH","location":{"coordinates":[-13,24.3],"type":"Point"},"@timestamp":"2022-12-25T03:00Z"}
 {"country":"Estonia","city":"Tallinn","tld":"ee","iso3":"EST","iso2":"EE","location":{"coordinates":[24.43,59.26],"type":"Point"},"@timestamp":"2022-12-24T23:05Z"}
 {"country":"Egypt","city":"Cairo","tld":"eg","iso3":"EGY","iso2":"EG","location":{"coordinates":[31.15,30.03],"type":"Point"},"@timestamp":"2022-12-24T20:30Z"}
